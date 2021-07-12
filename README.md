@@ -8,7 +8,8 @@
 
 Hey there 👋
 
-I’m Muzammil Shakir, a full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Muzammil Shakir a confident and highly motivated "Full Stack Web Developer" who is organised and focused. Champion of best practice, skills and specialised in "Front-End Development". 
+My mission is to translate user-focused designs  into pixel perfect Websites or Applications that will run blazing fast.
 
 <!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
@@ -183,7 +184,7 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 ## 📣 How about a Suits quote before you go?
 
-> I didn't ask you to explain the problem to me, I asked you to fix it for me.
+> No kicking. No biting. No rabbit punches.
 >
 > <p>- Harvey Specter</p>
 
