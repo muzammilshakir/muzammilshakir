@@ -179,7 +179,7 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 ## 📣 How about an Office quote before you go?
 
-> I'm not here for your absolution, I'm here for your redemption.
+> Winners don’t make excuses when the other side plays the game.
 >
 > <p>- Harvey Specter</p>
 
