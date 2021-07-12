@@ -41,6 +41,9 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
   <!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilshakir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilshakir&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<a href="https://github.com/muzammilshakir">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=muzammilshakir" />
+</a>
 
 <a href="https://github.com/muzammilshakir">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=muzammilshakir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Muzammil Shakir's GitHub Stats" />
@@ -114,8 +117,6 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+_Quote are from [Suits](https://www.imdb.com/title/tt1632701/)_
 
 <br>
