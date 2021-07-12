@@ -19,9 +19,6 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 <a href="https://github.com/muzammilshakir/RMS-Admin2.0">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilshakir&repo=RMS-Admin2.0&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/muzammilshakir/dig-dug-clone">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilshakir&repo=dig-dug-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 
@@ -182,7 +179,7 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 ## 📣 How about a Suits quote before you go?
 
-> Let them hate, just make sure they spell your name right.
+> Winners stick it out when the other side plays the game.
 >
 > <p>- Harvey Specter</p>
 
