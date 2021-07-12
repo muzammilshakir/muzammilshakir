@@ -9,6 +9,7 @@
 Hey there 👋
 
 I'm Muzammil Shakir a confident and highly motivated "Full Stack Web Developer" who is organised and focused. Champion of best practice, skills and specialised in "Front-End Development". 
+<br>
 My mission is to translate user-focused designs  into pixel perfect Websites or Applications that will run blazing fast.
 
 <!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
