@@ -20,6 +20,10 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilshakir&repo=RMS-Admin2.0&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/muzammilshakir/dig-dug-clone">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilshakir&repo=dig-dug-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 
 <a href="https://github.com/muzammilshakir/chess-gui-final">
@@ -179,7 +183,7 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 ## 📣 How about a Suits quote before you go?
 
-> Winners stick it out when the other side plays the game.
+> I didn't ask you to explain the problem to me, I asked you to fix it for me.
 >
 > <p>- Harvey Specter</p>
 
