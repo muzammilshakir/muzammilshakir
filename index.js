@@ -39,7 +39,7 @@ async function main() {
     // const office_quote = await (
     //     await fetch("https://officeapi.dev/api/quotes/random")
     // ).json();
-    let office_quote = _.shuffle(quotes)[0];
+    let office_quote = quotes[quotes.length * Math.random() | 0]
 
     console.log(office_quote);
 
