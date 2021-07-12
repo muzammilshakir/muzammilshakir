@@ -1,7 +1,7 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Muzammil Shakir's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/muzammilshakir/muzammilshakir)]()
 [![Years Badge](https://badges.pufler.dev/years/muzammilshakir)]()
-[![Repos Badge](https://badges.pufler.dev/repos/muzammilshakir)]()
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/muzammilshakir)]() -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/muzammilshakir) -->
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
@@ -38,11 +38,12 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 <br>
 
 <a href="https://github.com/muzammilshakir">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilshakir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilshakir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilshakir&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/muzammilshakir">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=muzammilshakir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=muzammilshakir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Muzammil Shakir's GitHub Stats" />
 </a>
 
 <br>
@@ -109,9 +110,9 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 ## 📣 How about an Office quote before you go?
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
