@@ -177,9 +177,9 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a Suits quote before you go?
 
-> Winners don’t make excuses when the other side plays the game.
+> Let them hate, just make sure they spell your name right.
 >
 > <p>- Harvey Specter</p>
 
