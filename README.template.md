@@ -177,7 +177,7 @@ I’m Muzammil Shakir, a full-stack web developer, creative coder and self-procl
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a Suits quote before you go?
 
 > {office_quote}
 >
