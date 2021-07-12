@@ -1,4 +1,4 @@
-[![Muzammil Shakir's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Muzammil Shakir's GitHub Banner](./assets/GitHubHeader.jpg)](https://braydoncoyer.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/muzammilshakir/muzammilshakir)]()
 [![Years Badge](https://badges.pufler.dev/years/muzammilshakir)]()
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/muzammilshakir)]() -->
