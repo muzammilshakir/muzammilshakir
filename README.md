@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don’t play the odds, I play the man.
+> I appreciate a good single malt. I don't pretend I can make one.
 >
 > <p>- Harvey Specter</p>
 
