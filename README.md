@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> That’s the difference between you and me. You wanna lose small, I wanna win big.
+> Take the drama down a notch, Juliet.
 >
 > <p>- Harvey Specter</p>
 
