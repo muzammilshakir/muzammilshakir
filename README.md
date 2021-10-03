@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don't have to overturn awards like that because I never lost one in the first place.
+> When you are backed against the wall, break the goddamn thing down.
 >
 > <p>- Harvey Specter</p>
 
