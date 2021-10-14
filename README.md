@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I'm emotionally vested in me.
+> Win a no-win situation by rewriting the rules.
 >
 > <p>- Harvey Specter</p>
 
