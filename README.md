@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I'm not here for your absolution, I'm here for your redemption.
+> I don't have to overturn awards like that because I never lost one in the first place.
 >
 > <p>- Harvey Specter</p>
 
