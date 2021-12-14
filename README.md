@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Sometimes good guys gotta do bad things to make the bad guys pay.
+> That’s the difference between you and me. You wanna lose small, I wanna win big.
 >
 > <p>- Harvey Specter</p>
 
