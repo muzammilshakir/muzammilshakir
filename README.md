@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I'm a boy scout. I like to be prepared.
+> You don't send a puppy to clean up its own mess.
 >
 > <p>- Harvey Specter</p>
 
