@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Winners don’t make excuses when the other side plays the game.
+> Take the drama down a notch, Juliet.
 >
 > <p>- Harvey Specter</p>
 
