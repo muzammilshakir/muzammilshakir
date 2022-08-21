@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
->  I need you to babysit the client for a while. If she asks you any questions about the deal, nod your head and look pretty.
+> When you are backed against the wall, break the goddamn thing down.
 >
 > <p>- Harvey Specter</p>
 
