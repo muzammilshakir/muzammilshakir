@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> When you are backed against the wall, break the goddamn thing down.
+> Winners don’t make excuses when the other side plays the game.
 >
 > <p>- Harvey Specter</p>
 
