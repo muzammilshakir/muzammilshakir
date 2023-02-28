@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> It’s not bragging if it’s true.
+> You don't send a puppy to clean up its own mess.
 >
 > <p>- Harvey Specter</p>
 
