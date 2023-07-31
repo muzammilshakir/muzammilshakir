@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Let them hate, just make sure they spell your name right.
+> That’s the difference between you and me. You wanna lose small, I wanna win big.
 >
 > <p>- Harvey Specter</p>
 
