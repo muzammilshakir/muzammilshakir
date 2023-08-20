@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Let them hate, just make sure they spell your name right.
+> First impressions last. Start behind the eight ball and you'll never get in front.
 >
 > <p>- Harvey Specter</p>
 
