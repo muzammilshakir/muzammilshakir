@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don’t play the odds, I play the man.
+> Let them hate, just make sure they spell your name right.
 >
 > <p>- Harvey Specter</p>
 
