@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don’t have dreams, I have goals.
+> I'm not here for your absolution, I'm here for your redemption.
 >
 > <p>- Harvey Specter</p>
 
