@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I'm not here for your absolution, I'm here for your redemption.
+> When you are backed against the wall, break the goddamn thing down.
 >
 > <p>- Harvey Specter</p>
 
