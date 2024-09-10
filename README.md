@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> It’s not bragging if it’s true.
+> I don't see anyone else lining up to get your ass out of here.
 >
 > <p>- Harvey Specter</p>
 
