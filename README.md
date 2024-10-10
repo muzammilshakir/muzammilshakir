@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Take the drama down a notch, Juliet.
+> It’s not bragging if it’s true.
 >
 > <p>- Harvey Specter</p>
 
