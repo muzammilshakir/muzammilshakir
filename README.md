@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> First impressions last. Start behind the eight ball and you'll never get in front.
+> They think you care, they’ll walk all over you.
 >
 > <p>- Harvey Specter</p>
 
