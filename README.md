@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don't have to overturn awards like that because I never lost one in the first place.
+> Win a no-win situation by rewriting the rules.
 >
 > <p>- Harvey Specter</p>
 
