@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Let them hate, just make sure they spell your name right.
+> Anyone can do my job, but no one can be me.
 >
 > <p>- Harvey Specter</p>
 
