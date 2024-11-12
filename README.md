@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Win a no-win situation by rewriting the rules.
+> I don’t have dreams, I have goals.
 >
 > <p>- Harvey Specter</p>
 
