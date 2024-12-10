@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> I don’t have dreams, I have goals.
+> Sometimes good guys gotta do bad things to make the bad guys pay.
 >
 > <p>- Harvey Specter</p>
 
