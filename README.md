@@ -185,7 +185,7 @@ My mission is to translate user-focused designs  into pixel perfect Websites or 
 
 ## 📣 How about a Suits quote before you go?
 
-> Sorry, I can’t hear you over the sound of how awesome I am.
+> Sometimes good guys gotta do bad things to make the bad guys pay.
 >
 > <p>- Harvey Specter</p>
 
